@@ -1,2 +1,12 @@
 ## NLP - Basics
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- Book: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- Paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- Blog: [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+    - Blogs: [Jay Alammar](https://jalammar.github.io/)
+- Blog: [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
+    - Blogs: [Lil’Log -  Lilian Weng](https://lilianweng.github.io/)
+- Blog: [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+- Course: [Hugging Face - NLP](https://huggingface.co/learn/nlp-course/chapter1/1)
+    - Courses: [Hugging Face - Learn](https://huggingface.co/learn)
+- Course: [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
+    - Courses: [W&B](https://www.wandb.courses/pages/w-b-courses)
