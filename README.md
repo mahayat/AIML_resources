@@ -1,2 +1,2 @@
-# AIML_resources
-Important Links/Resources on AI/ML
+## NLP - Basics
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
