@@ -32,3 +32,6 @@
 - Course: [Machine Learning Operations (MLOps): Getting Started
 ](https://www.coursera.org/learn/mlops-fundamentals/)
 - Course: [Made With ML - Goku Mohandas](https://madewithml.com/)
+
+## Data Sctructure and Algorithms
+- Cheat Sheet: [Super Study Guide](https://superstudy.guide/algorithms-data-structures/)
