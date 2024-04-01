@@ -16,6 +16,7 @@
     - Courses: [Hugging Face - Learn](https://huggingface.co/learn)
 - Course: [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
     - Courses: [W&B - AI Academy](https://www.wandb.courses/pages/w-b-courses)
+- Course: [LLM University by Cohere](https://docs.cohere.com/docs/llmu)
 - Videos: [Ali Ghodsi](https://www.youtube.com/@DataScienceCoursesUW)
 - Videos: [Cohere AI](https://www.youtube.com/@CohereAI/videos)
 - Videos: [Databricks - Generative AI Fundamentals](https://www.databricks.com/learn/training/generative-ai-fundamentals-accreditation)
@@ -32,6 +33,11 @@
 - Course: [Machine Learning Operations (MLOps): Getting Started
 ](https://www.coursera.org/learn/mlops-fundamentals/)
 - Course: [Made With ML - Goku Mohandas](https://madewithml.com/)
+
+## ML/AI Books
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Data Sctructure and Algorithms
 - Cheat Sheet: [Super Study Guide](https://superstudy.guide/algorithms-data-structures/)
