@@ -38,6 +38,24 @@
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/)
+
+## Blogs/Links
+- [Aman C.](https://aman.ai/)
+- [CS25: Transformers United V4](https://web.stanford.edu/class/cs25/index.html)
+- [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/syllabus/)
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/) 
 
 ## Data Sctructure and Algorithms
 - Cheat Sheet: [Super Study Guide](https://superstudy.guide/algorithms-data-structures/)
+
+## Design Patterns
+- [Python Design Patterns](https://python-patterns.guide/)
+- [Refactoring Guru](https://refactoring.guru/design-patterns/python)
+
+## Courses
+- [Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
+
+
+## Podcasts
+- [SuperDataScience](https://www.superdatascience.com/podcast)
